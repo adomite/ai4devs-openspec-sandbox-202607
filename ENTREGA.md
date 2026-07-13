@@ -3,13 +3,15 @@
 ## 1. Evidencia de instalación
 
 ### `openspec --version`
- ``` /ai4devs-openspec-sandbox-202607$ openspec --version
+ ``` 
+ /ai4devs-openspec-sandbox-202607$ openspec --version
  1.6.0
  ```
  
 
 ### `ls -R openspec/`
- ```/ai4devs-openspec-sandbox-202607$ ls -R openspec/
+ ```
+ /ai4devs-openspec-sandbox-202607$ ls -R openspec/
  openspec/:
  changes  config.yaml  specs
  
@@ -52,7 +54,7 @@ Mejora que haría si volviera a hacerlo: definir desde el prompt inicial si acep
 
 ## 3. Observaciones de la exploración de OpenSpec
 
-1. Esta versión (1.6.0) no genera `openspec/project.md` como "constitución" del proyecto — usa `config.yaml` en su lugar. 
-2. Las carpetas `changes/` y `specs/` nacen completamente vacías — OpenSpec no viene con ejemplos precargados, es un lienzo en blanco que se llena con el primer `/opsx:propose`.
-3. El contexto del proyecto en `config.yaml` es opcional, no obligatorio — trae ejemplos comentados (stack, convenciones, reglas por artefacto)
+1. Esta versión (1.6.0) no genera `openspec/project.md`, usa `config.yaml` en su lugar. 
+2. Las carpetas `changes/` y `specs/` nacen completamente vacías, OpenSpec no viene con ejemplos precargados, es un lienzo en blanco que se llena con el primer `/opsx:propose`.
+3. Al ser mi primer proyecto usando ClaudeCode, esta estructura será mi forma default de trabajo. 
 
