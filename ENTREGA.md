@@ -3,12 +3,13 @@
 ## 1. Evidencia de instalación
 
 ### `openspec --version`
- adomitetp@ThinkPado:~/Documents/projects/ai4devs/ai4devs-openspec-sandbox-202607$ openspec --version
+ ``` /ai4devs-openspec-sandbox-202607$ openspec --version
  1.6.0
- adomitetp@ThinkPado:~/Documents/projects/ai4devs/ai4devs-openspec-sandbox-202607$
+ ```
+ 
 
 ### `ls -R openspec/`
- adomitetp@ThinkPado:~/Documents/projects/ai4devs/ai4devs-openspec-sandbox-202607$ ls -R openspec/
+ ```/ai4devs-openspec-sandbox-202607$ ls -R openspec/
  openspec/:
  changes  config.yaml  specs
  
@@ -18,6 +19,8 @@
  openspec/changes/archive:
 
  openspec/specs:
+ ```
+ 
 
 ## 2. Parte A — Los 3 Pilares
 
